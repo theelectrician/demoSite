@@ -24,5 +24,5 @@ console.log(__filename);
 let dirPath =__dirname;
 console.log(dirPath);
 
-let newFilePath = path.join(dirPath,"/test.js")
+let newFilePath = path.join(dirPath,"test.js")
 console.log(newFilePath);
